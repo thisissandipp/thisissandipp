@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello I am Sandip Pramanik, a passionate app developer in making from India 👋
 
-<!--
-**cdx-studio/cdx-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying Bachelor of Technology (B.Tech) on Electrical Engineering at [NIT Durgapur](https://nitdgp.ac.in/). 
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/).
+- 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/_sandip_pramanik/).
+- 🤔 I’m looking for help with the ideas of backend development.
+- 💬 Ask me about Flutter related stuffs.
+- 📫 How to reach me: [Instagram - @_sandip_pramanik](https://www.instagram.com/_sandip_pramanik/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I need help to make my profile looks better.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Show some ❤️ by supporting... Lets grow together!
+
+
+#### My stats:
+<a href="https://github.com/cdx-studio">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=cdx-studio&show_icons=true&theme=dracula&line_height=27" alt="Sandip's github stats"/>
+</a> 
