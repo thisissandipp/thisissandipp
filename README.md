@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/_sandip_pramanik/).
 - 🤔 I’m looking for help with the ideas of backend development.
-- 💬 Ask me about Flutter related stuffs and UI designs.
+- 💬 Ask me about Flutter related stuffs.
 - 📫 How to reach me: [Instagram - @_sandip_pramanik](https://www.instagram.com/_sandip_pramanik/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
