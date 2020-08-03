@@ -5,16 +5,16 @@
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/_sandip_pramanik/).
 - 🤔 I’m looking for help with the ideas of backend development.
-- 💬 Ask me about Flutter related stuffs.
+- 💬 Ask me about Flutter related stuffs and UI designs.
 - 📫 How to reach me: [Instagram - @_sandip_pramanik](https://www.instagram.com/_sandip_pramanik/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I need help to make my profile looks better.
+- ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
 
 
-#### Show some ❤️ by supporting... Lets grow together!
+#### Show some ❤️ by giving stars to my repositories. Lets grow together!
 
 
-#### My stats:
+#### My stats: ⤵
 <a href="https://github.com/cdx-studio">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cdx-studio&show_icons=true&theme=dracula&line_height=27" alt="Sandip's github stats"/>
 </a> 
