@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about Flutter related stuffs.
 - 📫 How to reach me: [Instagram - @_sandip_pramanik](https://www.instagram.com/_sandip_pramanik/)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
 
 
