@@ -1,5 +1,7 @@
 ### Hello I am Sandip Pramanik, a passionate app developer in making from India 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) 
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
@@ -14,7 +16,9 @@
 #### Show some ❤️ by giving stars to my repositories. Lets grow together!
 
 
-#### My stats: ⤵
-<a href="https://github.com/cdx-studio">
+<a href="https://github.com/thecodexhub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&theme=dracula&hide_langs_below=1" />
+</a>
+<a href="https://github.com/thecodexhub">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=thecodexhub&show_icons=true&theme=dracula&line_height=27" alt="Sandip's github stats"/>
 </a> 
