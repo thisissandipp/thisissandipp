@@ -1,4 +1,4 @@
-### Hello I am Sandip Pramanik, a passionate app developer in making from India 👋
+## Hello I am Sandip Pramanik, a passionate app developer in making from India 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
 
 
-#### Show some ❤️ by giving stars to my repositories. Lets grow together!
+### Show some ❤️ by giving stars to my repositories. Lets grow together!
 
 
 <a href="https://github.com/thecodexhub">
