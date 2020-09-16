@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about Flutter related stuffs.
-- 📫 How to reach me: [Instagram - @_sandip_pramanik](https://www.instagram.com/thecodexhub/)
+- 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
 
