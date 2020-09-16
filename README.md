@@ -1,7 +1,7 @@
 ### Hello I am Sandip Pramanik, a passionate app developer in making from India 👋
 
 
-- 🔭 I’m currently doing Bachelor of Technology (B.Tech) in Electrical Engineering at [NIT Durgapur](https://nitdgp.ac.in/). 
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/) 
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
