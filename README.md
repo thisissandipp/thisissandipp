@@ -10,7 +10,7 @@
 - 💬 Ask me about Flutter related stuffs.
 - 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I'm currently typing this without suggestions and auto-correct.
+- ⚡ Fun fact: I'm currently typing this without autofill. 😅
 
 
 ### Show some ❤️ by giving stars to my repositories. Lets grow together!
