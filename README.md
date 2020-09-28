@@ -1,6 +1,8 @@
 ## Hello I am Sandip Pramanik, from India 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="thecodexhub" /> </p>
+<p align ="left"> <a href="https://github.com/thecodexhub">
+ <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="TheCodexHub"/>
+</a> </p>
 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) 
