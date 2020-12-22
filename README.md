@@ -15,7 +15,8 @@
 - ⚡ Fun fact: I'm currently typing this without autofill. 😅
 
 
-### Show some ❤️ by giving stars to my repositories. Lets grow together!💪
+### Show some ❤️ by giving stars to my repositories. 
+#### LETS GROW TOGETHER! 💪
 
 
 <a href="https://github.com/thecodexhub">
