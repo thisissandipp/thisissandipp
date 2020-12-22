@@ -7,10 +7,10 @@
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) 
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
-- 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/), [LinkedIn](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/).
+- 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about Flutter related stuffs.
-- 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/)
+- 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/), [LinkedIn - @Sandip Pramanik](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm currently typing this without autofill. 😅
 
