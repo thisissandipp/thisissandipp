@@ -5,7 +5,7 @@
 </a> </p>
 
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/) 
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
