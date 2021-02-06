@@ -1,4 +1,4 @@
-## Hello I am Sandip Pramanik, from India 👋
+## Hello, I am Sandip Pramanik from India 👋
 
 <p align ="left"> <a href="https://github.com/thecodexhub">
  <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="TheCodexHub"/>
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning [Javascript](https://www.javascript.com/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
-- 💬 Ask me about Flutter related stuffs.
+- 💬 Ask me about any Flutter related stuffs.
 - 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/), [LinkedIn - @Sandip Pramanik](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm currently typing this without autofill. 😅
