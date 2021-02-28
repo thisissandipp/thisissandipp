@@ -17,6 +17,8 @@
 
 ### Show some ❤️ by giving stars to my repositories. 
 
+<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>
+
 
 <a href="https://github.com/thecodexhub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&theme=dracula&hide_langs_below=1" />
