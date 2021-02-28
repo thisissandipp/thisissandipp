@@ -16,7 +16,6 @@
 
 
 ### Show some ❤️ by giving stars to my repositories. 
-<pre> <p align="center">L E T S  G R O W  T O G E T H E R ! 💪</p> </pre>
 
 
 <a href="https://github.com/thecodexhub">
