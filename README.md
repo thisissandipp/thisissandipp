@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+<h2 align="center">Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 
 I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a tech enthusiast & Flutter developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
@@ -20,7 +20,7 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 - 😄 Pronouns: He/His/Him
 
 
-### Show some ❤️ by giving stars to my repositories. 
+#### Show some ❤️ by giving stars to my repositories.
 
 <pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>
 
