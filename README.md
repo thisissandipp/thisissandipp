@@ -1,4 +1,11 @@
-## Hello, I am Sandip Pramanik from India 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a tech enthusiast & Flutter developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
+[![Instagram Badge](https://img.shields.io/badge/-thecodexhub-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
+[![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
+[![Gmail Badge](https://img.shields.io/badge/-Sandip%20Pramanik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:sandipramanik07@gmail.com)
 
 <p align ="left"> <a href="https://github.com/thecodexhub">
  <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="TheCodexHub"/>
@@ -10,7 +17,6 @@
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about any Flutter related stuffs.
-- 📫 How to reach me: [Instagram - @thecodexhub](https://www.instagram.com/thecodexhub/), [LinkedIn - @Sandip Pramanik](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 - 😄 Pronouns: He/His/Him
 
 
