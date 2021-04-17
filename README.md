@@ -26,7 +26,7 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 
 
 <a href="https://github.com/thecodexhub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&layout=compact&theme=dracula&hide_langs_below=1" />
 </a>
 <a href="https://github.com/thecodexhub">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thecodexhub&show_icons=true&theme=dracula&line_height=27" alt="Sandip's github stats"/>
