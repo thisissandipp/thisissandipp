@@ -5,7 +5,7 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 [![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Instagram Badge](https://img.shields.io/badge/-thecodexhub-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
-[![Gmail Badge](https://img.shields.io/badge/-Sandip%20Pramanik-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:sandipramanik07@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sandipramanik07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:sandipramanik07@gmail.com)
 
 <p align ="left"> <a href="https://github.com/thecodexhub">
  <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="TheCodexHub"/>
