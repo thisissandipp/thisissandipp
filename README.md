@@ -1,4 +1,8 @@
-<h2 align="center">Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
+<h2 align="center">Fancy seeing you here! 
+<a href="https://github.com/thecodexhub">
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+</a>
+</h2>
 
 I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a tech enthusiast & Flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
