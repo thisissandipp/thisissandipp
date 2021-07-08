@@ -29,4 +29,4 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 <pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=thecodexhub&count_private=true&show_icons=true&theme=dracula)](https://github.com/thecodexhub)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&theme=dracula&layout=compact)](https://github.com/thecodexhub)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&langs_count=6&theme=dracula&layout=compact)](https://github.com/thecodexhub)
