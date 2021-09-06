@@ -4,7 +4,7 @@
 </a>
 </h2>
 
-I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a tech enthusiast & Flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a tech enthusiast & flutter developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
 [![Instagram Badge](https://img.shields.io/badge/-thecodexhub-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
@@ -17,7 +17,7 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
-- 🌱 I’m currently learning [MERN](https://www.mongodb.com/mern-stack) stack.
+- 🌱 I’m currently learning [NextJS](https://nextjs.org/).
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about any Flutter related stuffs.
