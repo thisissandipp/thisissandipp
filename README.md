@@ -17,7 +17,7 @@ I am Sandip Pramanik, people call me Sandy, currently pursuing my bachelor's deg
 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
-- 🌱 I’m currently learning [NextJS](https://nextjs.org/).
+- 🌱 I’m currently learning backend and microservices.
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about any Flutter related stuffs.
