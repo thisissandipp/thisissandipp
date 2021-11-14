@@ -18,8 +18,8 @@ I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engi
 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
-- 🌱 I’m currently learning backend and microservices.
-- 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/thecodexhub/).
+- 🌱 I’m currently learning backend and microservices with [NodeJS](https://nodejs.org/en/).
+- 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development.
 - 💬 Ask me about any Flutter related stuffs.
 - 😄 Pronouns: He/His/Him
