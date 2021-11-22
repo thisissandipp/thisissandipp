@@ -13,7 +13,7 @@ I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engi
 [![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
 <p align ="left"> <a href="https://github.com/thecodexhub">
- <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="TheCodexHub"/>
+ <img src="https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic" alt="thecodexhub"/>
 </a> </p>
 
 
