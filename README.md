@@ -11,7 +11,7 @@
 
 [![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg)
 [![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
 
 ## About me
@@ -88,4 +88,4 @@ Find out more about me & feel free to connect with me here 👇
 [![Medium Badge](https://img.shields.io/badge/-thecodexhubofficial-black?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/thecodexhub/)](https://medium.com/@thecodexhubofficial/)
 [![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
-<!-- <pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre> -->
+<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>
