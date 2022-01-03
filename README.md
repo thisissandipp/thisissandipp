@@ -11,10 +11,10 @@
 
 [![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg)
 [![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
+<!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
-## About me
+## 😎 About me
 
 I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Tech Enthusiast & Flutter Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
@@ -78,6 +78,10 @@ I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engi
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thecodexhub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&langs_count=8&theme=dracula&layout=compact" height="192px"/></a>
 <br/>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
+
+## 📖 Latest Medium articles
+
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula">
 
 ## 💬 How to reach me
 
