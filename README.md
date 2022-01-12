@@ -18,7 +18,7 @@
 
 I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Tech Enthusiast & Flutter Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
-- 🔭 I’m currently working on [Flutter](https://flutter.dev/), [ReactJS](https://reactjs.org/) and [GraphQL](https://graphql.org/).
+- 🔭 I’m currently working on [Flutter](https://flutter.dev/) and [Firebase](https://firebase.google.com/).
 - 🌱 I’m currently learning backend and microservices with [NodeJS](https://nodejs.org/en/).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
