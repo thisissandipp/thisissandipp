@@ -1,6 +1,6 @@
 <h2 align="center">Fancy seeing you here! 
  <a href="https://github.com/thecodexhub">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
  </a>
 </h2>
 
