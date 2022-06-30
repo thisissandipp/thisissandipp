@@ -16,7 +16,7 @@
 
 ## 😎 About me
 
-I am Sandip Pramanik, currently pursuing my bachelor's degree in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Tech Enthusiast & Flutter Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
+I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Flutter and MERN Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/), [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/).
 - 🌱 I’m currently learning [Ethereum](https://ethereum.org/en/) and [Solidity](https://docs.soliditylang.org/).
