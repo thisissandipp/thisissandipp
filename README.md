@@ -19,7 +19,7 @@
 I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Flutter and MERN Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/), [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/).
-- 🌱 I’m currently learning [Ethereum](https://ethereum.org/en/) and [Blockchain](https://www.blockchain.com/).
+- 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) and [ReactJS](https://reactjs.org/).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
 - 💬 Ask me about any Flutter related stuffs.
