@@ -19,7 +19,7 @@
 I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a Flutter and MERN Developer from India. I am always open to collaborating on projects and innovative/disruptive ideas. 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/), [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/).
-- 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) and [ReactJS](https://reactjs.org/).
+- 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) microservices with [Spring Cloud](https://spring.io/projects/spring-cloud).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
 - 💬 Ask me about any Flutter related stuffs.
@@ -93,4 +93,4 @@ Find out more about me & feel free to connect with me here 👇
 [![Medium Badge](https://img.shields.io/badge/-thecodexhubofficial-black?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/thecodexhub/)](https://medium.com/@thecodexhubofficial/)
 [![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
-<pre align="center">L E T S  G R O W  T O G E T H E R ! 💪</pre>
+<pre align="center">L E T S  B U I L D  T O G E T H E R ! 💪</pre>
