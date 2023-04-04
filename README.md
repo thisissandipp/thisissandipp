@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
- <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+backend+developer;Always+learning+and+exploring+new+things">
+ <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+full-stack+developer;Always+learning+and+exploring+new+things">
  </a>
 </p>
 
@@ -57,6 +57,7 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-ff0044.svg?logo=nestjs&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+ <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring&logoColor=white"></a>
 </p>
 
 ### 💻 Databases and others
