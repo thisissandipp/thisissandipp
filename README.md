@@ -42,7 +42,7 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+<a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
@@ -88,7 +88,7 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 
 Find out more about me & feel free to connect with me here 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)](https://www.linkedin.com/in/sandip-pramanik-56a4a51b2/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sandip%20Pramanik-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandippramanik/)](https://www.linkedin.com/in/sandippramanik/)
 [![Instagram Badge](https://img.shields.io/badge/-thecodexhub-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
 [![Medium Badge](https://img.shields.io/badge/-thecodexhubofficial-black?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/thecodexhub/)](https://medium.com/@thecodexhubofficial/)
