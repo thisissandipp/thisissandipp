@@ -92,6 +92,6 @@ Find out more about me & feel free to connect with me here 👇
 [![Instagram Badge](https://img.shields.io/badge/-thecodexhub-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
 [![Twitter Badge](https://img.shields.io/badge/-thecodexhub-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
 [![Medium Badge](https://img.shields.io/badge/-thecodexhubofficial-black?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/thecodexhub/)](https://medium.com/@thecodexhubofficial/)
-[![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sandipramanik07@gmail.com)](mailto:thecodexhubofficial@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodexhubofficial@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
 <pre align="center">L E T S  B U I L D  T O G E T H E R ! 💪</pre>
