@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
- <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+full-stack+developer;Always+learning+and+exploring+new+things">
+ <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+fullstack+developer;Always+learning+and+exploring+new+things">
  </a>
 </p>
 
@@ -80,9 +80,9 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 <br/>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
-## 📖 Latest Medium articles
+<!-- ## 📖 Latest Medium articles
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula">
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula"> -->
 
 ## 💬 How to reach me
 
