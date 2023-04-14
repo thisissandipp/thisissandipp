@@ -56,8 +56,10 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
 <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-ff0044.svg?logo=nestjs&logoColor=white"></a>
+<a href="#"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
- <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring&logoColor=white"></a>
+<a href="#"><img alt="Socket IO" src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101"></a>
+<a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=spring&logoColor=white"></a>
 </p>
 
 ### 💻 Databases and others
