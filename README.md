@@ -14,7 +14,7 @@
 [![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
 <!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
-## 😎 About me
+## 👨‍💻 About me
 
 I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/), currently working as a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/). I am a Flutter and MERN Developer from India. I am always open to collaborating on projects and innovative ideas. 
 
