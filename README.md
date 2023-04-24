@@ -24,6 +24,7 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
 - 💬 Ask me about any Flutter related stuffs.
 - 😄 Pronouns: He/His/Him
+- 👻 Fun fact: Sometimes I do freelancing!
 
 ## 🔥 Streak stats
 
