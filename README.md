@@ -83,9 +83,9 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 <br/>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
-<!-- ## 📖 Latest Medium articles
+## 📖 Latest Medium articles
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula"> -->
+<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula">
 
 ## 💬 How to reach me
 
