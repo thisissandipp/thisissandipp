@@ -85,7 +85,13 @@ I am Sandip Pramanik, graduated in Electrical Engineering from [NIT Durgapur](ht
 
 ## 📖 Latest Medium articles
 
-<img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula">
+1. [Dart Frog - Fast & Minimalistic Backend Framework for Dart](https://towardsdev.com/dart-frog-fast-minimalistic-backend-framework-for-dart-fcfca966c976)
+2. [Flutter and ObjectBox - High-Performance NoSQL Database](https://towardsdev.com/flutter-and-objectbox-high-performance-nosql-database-e540b4ae91ee)
+3. [Slivers in Flutter - Efficient and Fancy Scrolling Experience](https://towardsdev.com/slivers-in-flutter-efficient-and-fancy-scrolling-experience-9a3f5b370666)
+4. [Flutter Navigator 2.0 with GoRouter](https://towardsdev.com/flutter-navigator-2-0-with-gorouter-fb2dd998e40e)
+5. [TextInputFormatter in Flutter - Format User’s Input on-the-fly](https://towardsdev.com/textinputformatter-in-flutter-format-users-input-on-the-fly-71510af8a44c)
+
+<!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula"> -->
 
 ## 💬 How to reach me
 
