@@ -22,7 +22,7 @@ I am Sandip Pramanik, currently working as a Senior Software Engineer at [Capgem
 - 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) microservices with [Spring Cloud](https://spring.io/projects/spring-cloud).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
-- 💬 Ask me about any Flutter related stuffs.
+- 💬 Ask me about any Flutter and Backend related stuffs.
 - 😄 Pronouns: He/His/Him
 - 👻 Fun fact: Sometimes I do freelancing!
 
