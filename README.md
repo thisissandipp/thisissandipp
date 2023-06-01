@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I am Sandip Pramanik, currently working as a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/), graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a full-stack developer and Flutter Enthusiast from India. I am always open to collaborating on projects and innovative ideas. 
+I am Sandip Pramanik, currently working as a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/), graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a full-stack developer and Flutter Enthusiast from India. I am always open to collaborating on projects, innovative ideas, and freelancing works. 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/), [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/).
 - 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) microservices with [Spring Cloud](https://spring.io/projects/spring-cloud).
