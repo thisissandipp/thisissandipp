@@ -102,4 +102,4 @@ Find out more about me & feel free to connect with me here 👇
 [![Medium Badge](https://img.shields.io/badge/-thecodexhubofficial-black?style=flat-square&logo=medium&logoColor=white&link=https://twitter.com/thecodexhub/)](https://medium.com/@thecodexhubofficial/)
 [![Gmail Badge](https://img.shields.io/badge/-thecodexhubofficial@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodexhubofficial@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
-<pre align="center">L E T S  B U I L D  T O G E T H E R ! 💪</pre>
+<pre align="center">L E T S  M A K E  S O M E  M A G I C  H A P P E N ! ✨</pre>
