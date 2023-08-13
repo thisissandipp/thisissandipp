@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About me
 
-I am Sandip Pramanik, currently working as a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/), graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a full-stack developer and Flutter Enthusiast from India. I am always open to collaborating on projects, innovative ideas, and freelancing works. 
+I am Sandip Pramanik, a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a full-stack developer and Flutter Enthusiast from India. I am always open to collaborating on projects, innovative ideas, and freelancing work. 
 
 - 🔭 I’m currently working on [Flutter](https://flutter.dev/), [NodeJS](https://nodejs.org/en/) and [MongoDB](https://www.mongodb.com/).
 - 🌱 I’m currently learning [Spring Boot](https://spring.io/projects/spring-boot) microservices with [Spring Cloud](https://spring.io/projects/spring-cloud).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/) and [Medium](https://medium.com/@thecodexhubofficial/).
 - 🤔 I’m looking for help with the ideas of backend development and microservices.
-- 💬 Ask me about any Flutter and Backend related stuffs.
+- 💬 Ask me about any Flutter and Backend-related stuff.
 - 😄 Pronouns: He/His/Him
 - 👻 Fun fact: Sometimes I do freelancing!
 
@@ -90,7 +90,7 @@ I am Sandip Pramanik, currently working as a Senior Software Engineer at [Capgem
 4. [Flutter Navigator 2.0 with GoRouter](https://towardsdev.com/flutter-navigator-2-0-with-gorouter-fb2dd998e40e)
 5. [TextInputFormatter in Flutter - Format User’s Input on-the-fly](https://towardsdev.com/textinputformatter-in-flutter-format-users-input-on-the-fly-71510af8a44c)
 
-<!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhubofficial&limit=6&theme=dracula"> -->
+<!-- <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=thecodexhub&limit=6&theme=dracula"> -->
 
 ## 💬 How to reach me
 
@@ -99,7 +99,7 @@ Find out more about me & feel free to connect with me here 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandippramanik/)](https://www.linkedin.com/in/sandippramanik/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@thecodexhubofficial/)](https://medium.com/@thecodexhubofficial/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@thecodexhub/)](https://medium.com/@thecodexhub/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://thecodexhub.hashnode.dev/)](https://thecodexhub.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Email%20address-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodexhubofficial@gmail.com)](mailto:thecodexhubofficial@gmail.com)
 
