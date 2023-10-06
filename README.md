@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About me
 
-I am Sandip Pramanik from India, a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/). I am a full-stack developer and have a strong foundation in Flutter as well. I am always open to collaborating on projects, innovative ideas, and freelancing work. 
+I am Sandip Pramanik from India, a Senior Software Engineer at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter as well. I am always open to collaborating on projects, innovative ideas, and freelancing work. 
 
 - 🔭 I’m currently working on [Xarvis CLI](https://github.com/thecodexhub/xarvis-cli).
 - 🌱 I’m currently learning Unit testing with [Jest](https://jestjs.io/) and the basics of [System Design](https://roadmap.sh/system-design).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
-- 🤔 I’m seeking help with backend development, microservices, and production-ready development.
+- 🤔 I’m looking for help with backend, microservices, and production-level development with good practices.
 - 💬 Ask me about any Flutter and Backend-related stuff.
 - 😄 Pronouns: He/His/Him
 - 👻 Fun fact: Sometimes I do freelancing!
