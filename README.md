@@ -10,8 +10,8 @@
 </p>
 
 [![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
-[![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub)
 [![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub) -->
 <!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
 ## 👨‍💻 About me
