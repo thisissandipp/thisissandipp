@@ -21,7 +21,7 @@ I am Sandip Pramanik from India, a Senior Software Engineer at [Capgemini](https
 - 🔭 I’m currently working on [Xarvis CLI](https://github.com/thecodexhub/xarvis-cli) and some side projects.
 - 🌱 I’m currently learning [NestJS](https://nestjs.com/) and the basics of [System Design](https://roadmap.sh/system-design).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
-- 🤔 I’m looking for help with backend, microservices, production-level development with good practices, and system design tips.
+- 🤔 I’m looking for open-source collaborations.
 - 💬 Ask me about any Flutter and Backend-related stuff.
 - 😄 Pronouns: He/His/Him
 - 👻 Fun fact: Sometimes I do freelancing!
