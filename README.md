@@ -4,10 +4,10 @@
  </a>
 </h2>
 
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+fullstack+developer;Always+learning+and+exploring+new+things">
  </a>
-</p>
+</p> -->
 
 [![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
 [![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
