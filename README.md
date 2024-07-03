@@ -24,7 +24,7 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
 - 🤔 I’m looking for open-source collaborations.
 - 💬 Ask me about any Flutter and Backend-related stuff.
 - 😄 Pronouns: He/His/Him
-- 👻 Fun fact: Sometimes I do freelancing!
+- ⚽️ Fun fact: Sometimes, I play football.
 
 ## 🔥 Streak stats
 
@@ -98,7 +98,7 @@ Find out more about me & feel free to connect with me here 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandippramanik/)](https://www.linkedin.com/in/sandippramanik/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@thecodexhub/)](https://medium.com/@thecodexhub/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://thecodexhub.hashnode.dev/)](https://thecodexhub.hashnode.dev/)
 [![Gmail Badge](https://img.shields.io/badge/-Email%20address-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodexhubofficial@gmail.com)](mailto:thecodexhubofficial@gmail.com)
