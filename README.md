@@ -33,6 +33,10 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
+## 🤖 Leetcode stats
+
+<a href="https://leetcode.com/thisissandip"><img src="https://leetcard.jacoblin.cool/thisissandip?theme=nord"></a>
+
 ## 🛠️ Languages and tools
 
 ### 👨‍💻 Programming languages
