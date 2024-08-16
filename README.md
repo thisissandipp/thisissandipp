@@ -18,8 +18,8 @@
 
 I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter. I am always open to collaborating on projects, innovative ideas, and freelancing work.
 
-- 🔭 I’m currently working on [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
-- 🌱 I’m currently learning [NestJS](https://nestjs.com/) with Microservices architecture.
+- 🔭 I’m currently working on [my portfolio](https://github.com/thecodexhub/portfolio), [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
+- 🌱 I’m currently learning DSA and [NestJS](https://nestjs.com/).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
 - 🤔 I’m looking for open-source collaborations.
 - 💬 Ask me about any Flutter and Backend-related stuff.
