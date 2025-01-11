@@ -35,7 +35,7 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
 
 ## 🤖 Leetcode stats
 
-<a href="https://leetcode.com/thisissandip"><img src="https://leetcard.jacoblin.cool/thisissandip?theme=nord"></a>
+<a href="https://leetcode.com/thisissandipp"><img src="https://leetcard.jacoblin.cool/thisissandipp?theme=nord"></a>
 
 ## 🛠️ Languages and tools
 
