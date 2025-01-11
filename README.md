@@ -9,18 +9,18 @@
  </a>
 </p> -->
 
-[![Visitor count](https://komarev.com/ghpvc/?username=thecodexhub&label=Views&color=blue&style=plastic)](https://github.com/thecodexhub)
-[![Github Follow](https://img.shields.io/github/followers/thecodexhub?label=follow&style=social)](https://github.com/thecodexhub)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thecodexhub?style=social)](https://twitter.com/thecodexhub) -->
+[![Visitor count](https://komarev.com/ghpvc/?username=thisissandipp&label=Views&color=blue&style=plastic)](https://github.com/thisissandipp)
+[![Github Follow](https://img.shields.io/github/followers/thisissandipp?label=follow&style=social)](https://github.com/thisissandipp)
+[![Twitter Follow](https://img.shields.io/twitter/follow/thisissandipp?style=social)](https://twitter.com/thisissandipp)
 <!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
 ## 👨‍💻 About me
 
 I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter. I am always open to collaborating on projects, innovative ideas, and freelancing work.
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/thecodexhub/portfolio), [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
+- 🔭 I’m currently working on [my portfolio](https://github.com/thisissandipp/portfolio), [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
 - 🌱 I’m currently learning DSA and [NestJS](https://nestjs.com/).
-- 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thecodexhub/), [Twitter](https://twitter.com/thecodexhub/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
+- 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thisissandipp/), [Twitter](https://twitter.com/thisissandipp/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
 - 🤔 I’m looking for open-source collaborations.
 - 💬 Ask me about any Flutter and Backend-related stuff.
 - 😄 Pronouns: He/His/Him
@@ -29,7 +29,7 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
 ## 🔥 Streak stats
 
 <p align="center">
- <a href="https://github.com/thecodexhub"><img src="http://github-readme-streak-stats.herokuapp.com?user=thecodexhub&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></a>
+ <a href="https://github.com/thisissandipp"><img src="http://github-readme-streak-stats.herokuapp.com?user=thisissandipp&theme=dracula&date_format=M%20j%5B%2C%20Y%5D"></a>
  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
@@ -81,8 +81,8 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
 ## 📊 Github stats
 
 <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thecodexhub's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thecodexhub&count_private=true&show_icons=true&theme=dracula" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="thecodexhub's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodexhub&langs_count=8&theme=dracula&layout=compact" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sandip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisissandipp&count_private=true&show_icons=true&theme=dracula" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sandip's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisissandipp&langs_count=8&theme=dracula&layout=compact" height="192px"/></a>
 <br/>
 <b>Note:</b> <em>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</em>
 
@@ -101,10 +101,10 @@ I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://
 Find out more about me & feel free to connect with me here 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandippramanik/)](https://www.linkedin.com/in/sandippramanik/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thecodexhub/)](https://instagram.com/thecodexhub/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/thecodexhub/)](https://twitter.com/thecodexhub/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/thisissandipp/)](https://instagram.com/thisissandipp/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/thisissandipp/)](https://twitter.com/thisissandipp/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@thecodexhub/)](https://medium.com/@thecodexhub/)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white&link=https://thecodexhub.hashnode.dev/)](https://thecodexhub.hashnode.dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Email%20address-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thecodexhubofficial@gmail.com)](mailto:thecodexhubofficial@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email%20address-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thisissandipp@gmail.com)](mailto:thisissandipp@gmail.com)
 
 <pre align="center">L E T S  M A K E  S O M E  M A G I C  H A P P E N ! ✨</pre>
