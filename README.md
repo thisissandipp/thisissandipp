@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About me
 
-I am Sandip Pramanik from India, currently living in UK, an Associate Consultant at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter. I am always open to collaborating on projects, innovative ideas, and freelancing work.
+I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter. I am always open to collaborating on projects, innovative ideas, and freelancing work.
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/thisissandipp/portfolio), [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
 - 🌱 I’m currently learning [Flutter Riverpod](https://riverpod.dev/) and [Rust](https://www.rust-lang.org/).
