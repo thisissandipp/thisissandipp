@@ -18,7 +18,7 @@
 
 I am Sandip Pramanik from India, an Associate Consultant at [Capgemini](https://www.capgemini.com/in-en/). I graduated in Electrical Engineering from [NIT Durgapur](https://nitdgp.ac.in/) in 2022. I am a full-stack developer and have a strong foundation in Flutter. I am always open to collaborating on projects, innovative ideas, and freelancing work.
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/thisissandipp/portfolio), [expression-ui](https://github.com/FilledStacks/expression-ui) and some side projects.
+- 🔭 I’m currently working on [passworthy](https://github.com/thisissandipp/passworthy), [flutter interview questions](https://github.com/thisissandipp/flutter-interview-questions) and some side projects.
 - 🌱 I’m currently learning [Flutter Riverpod](https://riverpod.dev/) and [Rust](https://www.rust-lang.org/).
 - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thisissandipp/), [Twitter](https://twitter.com/thisissandipp/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/).
 - 🤔 I’m looking for open-source collaborations.
