@@ -11,7 +11,7 @@
 
 [![Visitor count](https://komarev.com/ghpvc/?username=thisissandipp&label=Views&color=blue&style=plastic)](https://github.com/thisissandipp)
 [![Github Follow](https://img.shields.io/github/followers/thisissandipp?label=follow&style=social)](https://github.com/thisissandipp)
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/thisissandipp?style=social)](https://twitter.com/thisissandipp) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/thisissandipp?style=social)](https://twitter.com/thisissandipp)
 <!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC9q3zgQaK4JyrqPCCNvd_yg?style=social)](https://www.youtube.com/channel/UC9q3zgQaK4JyrqPCCNvd_yg) -->
 
 ## 👨‍💻 About me
