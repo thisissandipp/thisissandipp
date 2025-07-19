@@ -1,11 +1,11 @@
 <h2 align="center">Fancy seeing you here! 
- <a href="https://github.com/thecodexhub">
+ <a href="https://github.com/thisissandipp">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
  </a>
 </h2>
 
 <!-- <p align="center">
- <a href="https://github.com/thecodexhub"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+fullstack+developer;Always+learning+and+exploring+new+things">
+ <a href="https://github.com/thisissandipp"><img src="https://readme-typing-svg.herokuapp.com?color=%FFFF2DA5&width=700&size=22&center=true&lines=Flutter+Developer+and+Web+Enthusiast;Passionate+self-taught+fullstack+developer;Always+learning+and+exploring+new+things">
  </a>
 </p> -->
 
