@@ -20,11 +20,11 @@ I am Sandip Pramanik from India, a Consultant at [TTEC Digital](https://www.ttec
 
 - 🔭 I’m currently working on [momentum](https://github.com/thisissandipp/momentum), [flutter interview questions](https://github.com/thisissandipp/flutter-interview-questions) and some side projects.
 - 🌱 I’m currently learning DSA, AI, LLMs, Productivity, and Personal Growth.
-<!-- - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thisissandipp/), [Twitter](https://twitter.com/thisissandipp/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/). -->
 - 🤔 I’m looking for open-source collaborations.
 - 💬 Ask me about any Flutter and JavaScript-related stuff.
 - 😄 Pronouns: He/His/Him
 - ⚽️ Fun fact: Sometimes, I play football.
+<!-- - 👯 I’m creating Flutter content on [Instagram](https://www.instagram.com/thisissandipp/), [Twitter](https://twitter.com/thisissandipp/), [Medium](https://medium.com/@thecodexhubofficial/), and [Hashnode](https://thecodexhub.hashnode.dev/). -->
 
 ## 🔥 Streak stats
 
